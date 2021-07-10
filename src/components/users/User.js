@@ -35,7 +35,7 @@ const User = ({ match }) => {
 
     return (
         <Fragment>
-            <Link to='/' className='btn btn-light'>
+            <Link to='/' className='btn btn-dark' style={backToSearchStyle}>
                 Back to Search
             </Link>
             Hireable:{' '}
@@ -107,6 +107,10 @@ const User = ({ match }) => {
             <Repos repos={repos} />
         </Fragment>
     );
+};
+
+const backToSearchStyle = {
+    opacity: 0.4,
 };
 
 export default User;

@@ -28,7 +28,7 @@ const Search = () => {
                     name='text'
                     value={text}
                     onChange={onChange}
-                    placeholder='Search Users...'
+                    placeholder='search users...'
                 />
                 <input
                     type='submit'
