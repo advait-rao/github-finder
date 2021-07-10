@@ -27,6 +27,6 @@ Builds the app for production to the `build` folder.<br>
 
 ## Hosting
 
-I am currently hosting this application on [netlify.com](https://www.netlify.com/]).
+I am currently hosting this application on <a href="https://www.netlify.com/" target="_blank">netlify.com</a>.
 
-Click [here](https://github-finder-advait.netlify.app/) to go to the app.
+Click <a href="https://github-finder-advait.netlify.app/" target="_blank">here</a> to go to the app.
