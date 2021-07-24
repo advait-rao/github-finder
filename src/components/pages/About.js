@@ -6,16 +6,20 @@ const About = () => {
             <div className='card'>
                 <h1>About this App</h1>
                 <p>
-                    This project allows you to search for Github users and
-                    access some basic user information.
+                    This project allows you to search for GitHub users and
+                    allows you to view customised user information cards.
                 </p>
                 <br />
                 <p>
-                    Click{' '}
-                    <a href='https://github.com/advait-rao/github-finder'>
-                        here
+                    To know more, check out the{' '}
+                    <a
+                        href='https://github.com/advait-rao/github-finder'
+                        target='_blank'
+                        rel='noreferrer'
+                    >
+                        GitHub
                     </a>{' '}
-                    to go to the Github page.
+                    page.
                 </p>
             </div>
         </Fragment>
